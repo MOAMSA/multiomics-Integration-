@@ -1,0 +1,7 @@
+*.gz
+*.bed
+*.h5ad
+*.loom
+*.dill
+glue/
+.ipynb_checkpoints/
