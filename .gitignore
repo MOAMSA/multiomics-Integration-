@@ -5,3 +5,5 @@
 *.dill
 glue/
 .ipynb_checkpoints/
+*.csv
+
